@@ -1,0 +1,23 @@
+{
+  "name": "Angular relative time filter",
+  "version": "0.0.1",
+  "authors": [
+    "minutephp <dev@minutephp.com>"
+  ],
+  "description": "Simple AngularJS filter to show relative time (based on moment.js)",
+  "main": "src/js/angular-time-ago.js",
+  "keywords": [
+    "angularjs",
+    "moment",
+    "timeago"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.minutephp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
